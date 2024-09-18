@@ -2,6 +2,7 @@
 ### INTRODUCTION
 This report analyzes the Adventure Works 2015,2016,2017 dataset to inform business decisions,derive insight and drive growth. Focusing on sales, customers, and products, our analysis identifies key trends and patterns, providing actionable recommendations to enhance operations, customer engagement, and market expansion. SQLITE is use for Analysis and Exploration
 
+**WEEK 1 TASK**
 
 ### DATA IMPORTATION
 
