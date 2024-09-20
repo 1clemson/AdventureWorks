@@ -44,7 +44,31 @@ The Data Diagram also known as Entity Relationship Diagram (ERD or ER Diagram) i
 
 
 
+### Week Two Task
 
+**SQLITE database connection with Python**
+Importing pandas as pd, importing Sqlite3 as sql. Connecting the database with python to upload the tables in  dataframe.
+Variable name was created for each database parsed in as panadas dataframe for easier use.
+
+## Exploring datasets, data preprocessing, data normalization and data validation
+The data was explored to check the datatypes using diffrent python command (describe, info) to check null values, datatypes ,descriptive statistics of the columns.
+
+## Correcting datatypes
+The data datatype was corrected using python code to put it in more organized format. Changing annual income datatype to integer from object and also cleaning the column by removing comma (,) sign to make the column organized properly.
+
+## Foreign key check
+Checking if the foreign key in fact_sales is linked properly using python code with (if statement) to print out particular statement if the foreign key is linked properly.
+
+## Visualizing outliers 
+Boxplot was used to visualize outliers in AnnualIncome column on Customers table, the extreme values was plotted above the whiskers which makes it outliers in the column.
+
+**Importing Pandas and Sqlite**
+
+![week2p](https://github.com/user-attachments/assets/112b0dba-7b76-404b-9988-c118b922fe24)
+
+
+**Boxplot**
+![week2a](https://github.com/user-attachments/assets/baad40db-6b54-4bcb-8008-0a43fe384945)
 
 
 
